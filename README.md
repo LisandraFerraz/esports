@@ -10,3 +10,5 @@ Here you can find:
 Side libraries included:
  - Tailwind;
  - Vite JS.
+
+![Design](https://github.com/user-attachments/assets/66a9897e-dca9-4020-a337-d69530158574)
